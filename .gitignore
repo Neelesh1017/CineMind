@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (SECURITY RISK)
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build outputs (Frontend)
+dist/
+build/
+
+# Optional: Large data files if you don't want them on GitHub
+# backend/tmdb_5000_movies1.csv
